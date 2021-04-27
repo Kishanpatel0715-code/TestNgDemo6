@@ -47,4 +47,9 @@ public class Testing1 {
 	public void test4() {
 		System.out.println("test4");
 	}
+	
+	@Test
+	public void test5() {
+		System.out.println("test5");
+	}
 }
